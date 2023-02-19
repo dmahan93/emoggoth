@@ -1,0 +1,3 @@
+pilmoji
+numpy
+pillow
